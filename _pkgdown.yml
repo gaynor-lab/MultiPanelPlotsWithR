@@ -1,4 +1,4 @@
-url: https://gaynorlab.github.io/MultiPanelPlotsWithR/
+url: https://gaynor-lab.github.io/MultiPanelPlotsWithR/
 
 destination: docs
 
@@ -17,6 +17,8 @@ authors:
     href: https://www.grad.ubc.ca/campus-community/meet-our-students/press-eric
   Shree Senthivasan:
     href: https://www.zoology.ubc.ca/person/shreeram-senthivasan/
+  Kaitlyn M. Gaynor:
+    href: https://gaynorlab.weebly.com/
 
 reference:
 - title: Please see Vignettes for course content

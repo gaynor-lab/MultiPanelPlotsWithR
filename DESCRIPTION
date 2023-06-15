@@ -27,12 +27,17 @@ Authors@R:
            family = "Senthivasan",
            role = c("aut"),
            email = "shreeramsenti@gmail.com",
-           comment = c(ORCID = "0000-0002-7118-9547")))           
+           comment = c(ORCID = "0000-0002-7118-9547")),
+    person(given = "Kaitlyn",
+           family = "Gaynor",
+           role = c("aut"),
+           email = "gaynor@zoology.ubc.ca"),
+           comment = c(ORCID = "0000-0002-5747-0543"))           
 Description: Tutorial that walks students of different skill levels through a 
   series of data wrangling and visualization exercises. The goal is to make sure 
   students are comfortable using packages within the tidyverse, along with 
   `cowplot`, to produce publication quality figures.
-URL: https://github.com/flightlab/MultiPanelPlotsWithR
+URL: https://github.com/gaynor-lab/MultiPanelPlotsWithR
 License: file LICENSE
 Encoding: UTF-8
 LazyData: true
